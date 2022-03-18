@@ -1,3 +1,5 @@
+// tried optimisation of bubblesort probably shit 
+
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;

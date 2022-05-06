@@ -1,6 +1,5 @@
-#include<iostream>
-#include <string.h>
-
+#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 void search(char* pat,char* text){

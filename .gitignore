@@ -2,3 +2,4 @@
 *.exe
 rough.cpp
 tempCodeRunnerFile.cpp
+.vscode/*
